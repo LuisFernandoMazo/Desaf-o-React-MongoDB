@@ -53,11 +53,11 @@ Se implementó la **arquitectura Clean Code** utilizando el patrón **MVC (Model
 
 ## Endpoints de la API
 
-**GET** : /api/users/getUserByDocument/:identificacion
-**GET** : /api/users/getAllusers
-**GET** : /api/products/getAllProducts
-**GET** : /api/users/getAllusers
-**GET** : /api/products/getAllProducts
-**GET** : /api/priceSpecial/getAllPriceSpecial
-**PUT** : /api/priceSpecial/updateSpecialPrice/:id
-**POST**: /api/priceSpecial/addPriceSpecial
+- **GET** : /api/users/getUserByDocument/:identificacion
+- **GET** : /api/users/getAllusers
+- **GET** : /api/products/getAllProducts
+- **GET** : /api/users/getAllusers
+- **GET** : /api/products/getAllProducts
+- **GET** : /api/priceSpecial/getAllPriceSpecial
+- **PUT** : /api/priceSpecial/updateSpecialPrice/:id
+- **POST**: /api/priceSpecial/addPriceSpecial
