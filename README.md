@@ -43,13 +43,13 @@ Se implementó la **arquitectura Clean Code** utilizando el patrón **MVC (Model
 - **Vista (View)**: Aunque no se implementa en el backend directamente, la vista se refiere a la representación de los datos que se muestran al usuario, es gestionada en el frontend.
 - **Controlador (Controller)**: Contiene la lógica de negocio y maneja las solicitudes entrantes, interactúa con los modelos, y devuelve las respuestas correspondientes.
 
-**config/database.ts:** Establece la conexión con la base de datos MongoDB.
-**controllers/:** Contiene la lógica para manejar las solicitudes de los productos, precios especiales y usuarios.
-**models/:** Define los esquemas de Mongoose para los modelos PriceSpecial, Product, y User.
-**routes/:** Contiene las rutas para las operaciones CRUD de productos, precios especiales y usuarios.
-**services/:** Contiene la lógica de negocio para interactuar con la base de datos y procesar los datos.
-**utils/:** Funciones auxiliares como validaciones y utilidades.
-**index.ts:** El punto de entrada del servidor Express que inicia la API.
+-**config/database.ts:** Establece la conexión con la base de datos MongoDB.
+-**controllers/:** Contiene la lógica para manejar las solicitudes de los productos, precios especiales y usuarios.
+-**models/:** Define los esquemas de Mongoose para los modelos PriceSpecial, Product, y User.
+-**routes/:** Contiene las rutas para las operaciones CRUD de productos, precios especiales y usuarios.
+-**services/:** Contiene la lógica de negocio para interactuar con la base de datos y procesar los datos.
+-**utils/:** Funciones auxiliares como validaciones y utilidades.
+-**index.ts:** El punto de entrada del servidor Express que inicia la API.
 
 ## Endpoints de la API
 
