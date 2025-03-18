@@ -23,9 +23,9 @@ La aplicación permite gestionar productos y asignar precios especiales a usuari
 3. **Compilar el código TypeScript:**
    npm run build
 
-4.**Ejecutar el backend:**
-npm run dev
-Esto iniciará el servidor en http://localhost:3000.
+4. **Ejecutar el backend:**
+   npm run dev
+   Esto iniciará el servidor en http://localhost:3000.
 
 ### Tecnologías Utilizadas
 
