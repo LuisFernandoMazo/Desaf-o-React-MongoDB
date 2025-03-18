@@ -17,8 +17,8 @@ La aplicación permite gestionar productos y asignar precios especiales a usuari
 
 2. **Configuración de variables de entorno**
    Crear un archivo .env en la raíz del proyecto con las siguientes variables:
-   MONGODB_URI= mongodb+srv://drenviochallenge:m1jWly3uw42cBwp6@drenviochallenge.2efc0.mongodb.net/tienda
-   PORT=3000
+   -**MONGODB_URI**= mongodb+srv://drenviochallenge:m1jWly3uw42cBwp6@drenviochallenge.2efc0.mongodb.net/tienda
+   -**PORT**=3000
 
 3. **Compilar el código TypeScript:**
    npm run build
