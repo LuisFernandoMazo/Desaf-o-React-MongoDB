@@ -1,4 +1,4 @@
-# Proyecto: Desafío REact / MongoDB
+# Proyecto: Desafío React / MongoDB
 
 ## Introducción
 
